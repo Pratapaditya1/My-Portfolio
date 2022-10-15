@@ -25,11 +25,11 @@
     padding-top: 10px;
 }
 .btn{
-    background-color: rgb(198, 245, 106);
+    background-color: rgb(198, 240, 116);
     
     margin-right: 15px;
     border-radius: 5px;
-    border-color: black;
+    border-color: rgba(12, 12, 12, 0.877);
     text-align: center;
     align-items: center;
 }
